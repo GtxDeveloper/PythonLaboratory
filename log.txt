@@ -1,0 +1,7 @@
+2025-02-28 09:19:57 INFO: System started
+2025-02-28 09:19:57 ERROR: Failed to connect to database
+2025-02-28 09:19:57 INFO: User login successful
+2025-02-28 09:19:57 ERROR: File not found
+2025-02-28 09:19:57 WARNING: Low disk space
+2025-02-28 09:19:57 ERROR: Access denied
+2025-02-28 09:19:57 INFO: Backup completed
